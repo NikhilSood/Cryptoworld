@@ -1,6 +1,6 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# Cryptoworld - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptoworld](https://i.ibb.co/8gh5Jc8/image.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This app is deployed here: [https://cryptoversemp.netlify.app/](https://cryptoversemp.netlify.app/)
+This app is deployed here: [https://cryptoworldmp.netlify.app/](https://cryptoworldmp.netlify.app/)
