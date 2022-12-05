@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This app is deployed here: [https://cryptoworldmp.netlify.app/](https://cryptoworldmp.netlify.app/)
+This app is deployed here: [https://cryptoworld99.netlify.app/](https://cryptoworld99.netlify.app/)
