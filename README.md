@@ -1,6 +1,6 @@
 # Cryptoworld - Explore the World of Cryptocurrency
 
-![Cryptoworld](https://ibb.co/59XGfq0)
+![Cryptoworld]([https://ibb.co/59XGfq0](https://i.ibb.co/L063ghK/Screenshot-2022-12-05-223148.png))
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
